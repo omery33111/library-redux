@@ -16,6 +16,8 @@
 ## Technologies
 * **Next.js**: a React framework for building web applications, offering support for    server-side rendering (SSR), static site generation (SSG), and client-side rendering (CSR).
 
+* **Redux**: Redux: a state management library that allows for centralized management of application state.
+
 * **React-Query**: a powerful library for React that simplifies server state management, offering efficient tools for fetching, caching, and updating data.
 
 * **TypeScript**: a superset of JavaScript that adds static types, enabling better code organization and easier debugging.
