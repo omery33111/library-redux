@@ -1,8 +1,8 @@
 [![Live Firebase Server](https://img.shields.io/badge/Live%20on-Firebase-00ad9f.svg)](https://library-users-50453.web.app/)
 
-[![Last Commit on GitHub](https://img.shields.io/github/last-commit/omery33111/library-users.svg)](https://github.com/omery33111/library-users/commits/main)
+[![Last Commit on GitHub](https://img.shields.io/github/last-commit/omery33111/library-redux.svg)](https://github.com/omery33111/library-redux/commits/main)
 
-[![Pull Requests](https://img.shields.io/github/issues-pr/omery33111/library-users.svg?labelColor=24292E&logo=github&logoColor=white)](https://github.com/omery33111/library-users/pulls)
+[![Pull Requests](https://img.shields.io/github/issues-pr/omery33111/library-redux.svg?labelColor=24292E&logo=github&logoColor=white)](https://github.com/omery33111/library-redux/pulls)
 
 
 ## Table of Contents
